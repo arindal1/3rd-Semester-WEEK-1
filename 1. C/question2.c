@@ -37,7 +37,7 @@ void main()
     }
 
     sort(arr, ne);
-    
+    free(arr);
 }
 
 
